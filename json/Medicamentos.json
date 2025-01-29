@@ -1,0 +1,75 @@
+{
+    "medicamentos": [
+      {
+        "nombre": "Acetaminofén",
+        "dosis": "500-1000 mg cada 6-8 horas según necesidad",
+        "indicaciones": "Alivio del dolor y reducción de la fiebre",
+        "contraindicaciones": "Enfermedad hepática severa, alergia al paracetamol",
+        "efectos_secundarios": "Náuseas, reacciones alérgicas raras, daño hepático en dosis altas"
+      },
+      {
+        "nombre": "Ciprofloxacino",
+        "dosis": "250-750 mg cada 12 horas",
+        "indicaciones": "Infecciones bacterianas del tracto urinario, respiratorio y digestivo",
+        "contraindicaciones": "Hipersensibilidad a quinolonas, embarazo y lactancia",
+        "efectos_secundarios": "Náuseas, diarrea, tendinitis, fotosensibilidad"
+      },
+      {
+        "nombre": "Omeprazol",
+        "dosis": "20-40 mg una vez al día",
+        "indicaciones": "Reflujo gastroesofágico, úlceras gástricas y duodenales",
+        "contraindicaciones": "Hipersensibilidad a inhibidores de la bomba de protones",
+        "efectos_secundarios": "Dolor de cabeza, diarrea, deficiencia de vitamina B12 a largo plazo"
+      },
+      {
+        "nombre": "Azitromicina",
+        "dosis": "500 mg una vez al día por 3-5 días",
+        "indicaciones": "Infecciones respiratorias, de piel y enfermedades de transmisión sexual",
+        "contraindicaciones": "Alergia a macrólidos, insuficiencia hepática grave",
+        "efectos_secundarios": "Molestias gastrointestinales, diarrea, reacciones alérgicas"
+      },
+      {
+        "nombre": "Paracetamol",
+        "dosis": "500-1000 mg cada 6-8 horas según necesidad",
+        "indicaciones": "Analgésico y antipirético",
+        "contraindicaciones": "Enfermedad hepática severa, hipersensibilidad",
+        "efectos_secundarios": "Daño hepático en sobredosis, raras reacciones alérgicas"
+      },
+      {
+        "nombre": "Sertralina",
+        "dosis": "50-200 mg al día",
+        "indicaciones": "Depresión, trastorno de ansiedad y TOC",
+        "contraindicaciones": "Uso con IMAOs, hipersensibilidad al fármaco",
+        "efectos_secundarios": "Náuseas, insomnio, disminución de la libido"
+      },
+      {
+        "nombre": "Amlodipino",
+        "dosis": "5-10 mg una vez al día",
+        "indicaciones": "Hipertensión arterial y angina de pecho",
+        "contraindicaciones": "Hipersensibilidad, insuficiencia hepática severa",
+        "efectos_secundarios": "Edema, mareos, enrojecimiento facial"
+      },
+      {
+        "nombre": "Clonazepam",
+        "dosis": "0.5-2 mg al día según indicación médica",
+        "indicaciones": "Trastornos de ansiedad, epilepsia",
+        "contraindicaciones": "Miastenia gravis, insuficiencia respiratoria severa",
+        "efectos_secundarios": "Somnolencia, dependencia, dificultad para concentrarse"
+      },
+      {
+        "nombre": "Prednisona",
+        "dosis": "5-60 mg al día dependiendo de la condición",
+        "indicaciones": "Enfermedades inflamatorias y autoinmunes",
+        "contraindicaciones": "Infecciones sistémicas no controladas, úlcera péptica activa",
+        "efectos_secundarios": "Aumento de peso, hipertensión, osteoporosis a largo plazo"
+      },
+      {
+        "nombre": "Escitalopram",
+        "dosis": "10-20 mg una vez al día",
+        "indicaciones": "Depresión mayor y trastornos de ansiedad",
+        "contraindicaciones": "Uso con IMAOs, hipersensibilidad al fármaco",
+        "efectos_secundarios": "Náuseas, fatiga, disfunción sexual"
+      }
+    ]
+  }
+  
